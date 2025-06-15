@@ -11,7 +11,7 @@ To complete this project you should have your lab set-up with the appropriate to
  
 # Project Architecture
 
-![Stack](Stack.png)
+![Stack](vagrant.drawio.png)
 
 This is a follow up project on the project: Multi Tier Web Application Stack Setup Locally but this time we will be automating 
 the entire process with bash scripts and vagrant to bring up our VMs and provision the services with just one command.
